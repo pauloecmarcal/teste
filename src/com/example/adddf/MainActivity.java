@@ -30,10 +30,7 @@ public class MainActivity extends ActionBarActivity {
 			return true;
 		}
 		//8939838935
-		
-		//22
-		
-		//33
+		//agora vaii
 		return super.onOptionsItemSelected(item);
 	}
 }
